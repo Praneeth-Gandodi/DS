@@ -1,0 +1,6 @@
+RollNo	Name	Class	Section	Marks
+101	Aarav	10	A	88
+102	Ananya	10	A	92
+103	Rohan	10	B	76
+104	Priya	10	B	85
+105	Vikram	10	A	90
